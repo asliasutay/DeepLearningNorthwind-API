@@ -9,7 +9,7 @@ from tensorflow.keras.optimizers import Adam
 import joblib
 
 # 1️⃣ Veritabanı bağlantısı
-engine = create_engine("postgresql://postgres:Yalova8988@localhost:5432/GYK1")
+engine = create_engine("postgresql://postgres:12345@localhost:5432/database")
 
 # 2️⃣ SQL ile veri çek
 query = """
