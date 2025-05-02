@@ -10,7 +10,7 @@ import tensorflow as tf
 import joblib
 
 # PostgreSQL bağlantısı
-engine = create_engine("postgresql://postgres:Yalova8988@localhost:5432/GYK1")
+engine = create_engine("postgresql://postgres:12345@localhost:5432/database")
 
 # Veriyi çek
 query = """
