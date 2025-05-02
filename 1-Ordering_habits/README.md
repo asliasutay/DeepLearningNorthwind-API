@@ -1,5 +1,10 @@
 # Sipariş Verme Alışkanlığı Tahmini
 
+## Veri Mevsimselliği
+![image](https://github.com/user-attachments/assets/3fe8df2e-60cb-443a-b963-a76b116005aa)
+
+
+
 Bu model, müşterilerin toplam harcaması, sipariş sayısı ve ortalama sipariş büyüklüğüne göre önümüzdeki 6 ay içinde tekrar sipariş verip vermeyeceğini tahmin etmektedir.
 
 ## Model Özellikleri
