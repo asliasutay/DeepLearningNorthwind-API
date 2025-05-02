@@ -41,15 +41,6 @@ uvicorn first.main:app --reload
 # Ürün İade Riski API
 uvicorn second.main:app --reload
 
-## 👨‍💻 Katkı Sağlayanlar
-
-- Aslı Asutay
-- Eslem Nur Gök
-- Gül Erten
-- Yağmur Polat
-- Nour Baroudi
-
-
 # Yeni Ürün Satın Alma Potansiyeli API
 uvicorn third.main:app --reload
 ```
@@ -57,3 +48,11 @@ uvicorn third.main:app --reload
 ## Model Detayları
 
 Her bir model için detaylı bilgi ve kullanım örnekleri ilgili klasörlerdeki README dosyalarında bulunmaktadır. 
+
+## 👨‍💻 Katkı Sağlayanlar
+
+- Aslı Asutay
+- Eslem Nur Gök
+- Gül Erten
+- Yağmur Polat
+- Nour Baroudi
