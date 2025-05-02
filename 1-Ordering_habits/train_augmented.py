@@ -30,7 +30,7 @@ def augment_customer_data(df, n_times=5, noise_level=0.1):
     return pd.concat([df] + augmented, ignore_index=True)
 
 # Veri tabanı bağlantısı
-engine = create_engine("postgresql://postgres:Yalova8988@localhost:5432/GYK1")
+engine = create_engine("postgresql://postgres:12345@localhost:5432/database")
 
 # Veriyi çek
 query = """
